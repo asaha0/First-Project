@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void sayGoodBye() {
-      System.out.println("GoodBye")
+      System.out.println("GoodBye");
     }
 }
